@@ -1,4 +1,4 @@
-# Z buffer visibility algorithm
+# Z buffer visibility algorithm
 
 Add the Z buffer visibility algorithm to your triangle scan
 conversion algorithm in Assignment 2. Define a scene made up of colored triangles with 3D vertex coordinates.
